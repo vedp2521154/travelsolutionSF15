@@ -20,7 +20,7 @@ The request scheduler checks the vehicle's configured capacity and schedule over
 - Dynamic requester roles and pickup/drop locations
 - Configurable vehicle name and passenger capacity
 - Scheduled trip duration, estimated end time, overlap detection, and waitlist promotion
-- Cancellation, rider acceptance, boarded/missed tracking, and trip completion
+- Cancellation, rider acceptance, boarded/missed tracking, and trip compleion
 - Personal history, rider/admin history, search, filters, pagination, archive, restore, and admin-only permanent deletion
 - Admin analytics with date ranges, status/passenger counts, common routes, peak request time, completion/boarding rates, and daily activity
 - Private in-app notifications for meaningful ride events
